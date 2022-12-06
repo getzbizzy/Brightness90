@@ -1,0 +1,2 @@
+powercfg -setacvalueindex 381b4222-f694-41f0-9685-ff5bb260df2e 7516b95f-f776-4464-8c53-06167f40cc99 aded5e82-b909-4619-9949-f5d71dac0bcb 90
+powercfg -s 381b4222-f694-41f0-9685-ff5bb260df2e
